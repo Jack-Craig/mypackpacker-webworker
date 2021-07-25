@@ -1,0 +1,25 @@
+{
+  "name": "mypackpacker-webworker",
+  "version": "1.0.0",
+  "description": "Web scrapers and product updaters",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jack-Craig/mypackpacker-webworker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jack-Craig/mypackpacker-webworker/issues"
+  },
+  "homepage": "https://github.com/Jack-Craig/mypackpacker-webworker#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "dotenv": "^10.0.0",
+    "mongoose": "^5.13.3",
+    "rsmq": "^0.12.4"
+  }
+}
